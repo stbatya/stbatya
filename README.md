@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stbatya
-- 👋 Sometimes I call myself Farwoner/Farwonda
+- 👋 Sometimes I call myself Farwonder/Farwonda
 - 👀 I’m interested in mathematics, Schrodinger and Dunkl operators, machine learning, neural networks, python and much more
 - 🌱 I’m currently learning flask and python machine learning implementation
 - 💞️ I’m looking to collaborate on data science projects
