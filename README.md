@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @stbatya
-- 👀 I’m interested in mathematics, Schrodinger and Dunkl operators, machine learning, neural networks, python and much more
-- 🌱 I’m currently working as ML engineer in Computer Vision field. I develop and deploy ML models that classify scanned documents, segmentate pages, extract some important data etc.
-- 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me: mr.politov.k@gmail.com
+- Hi, I’m @stbatya
+- I’m interested in mathematics, Schrodinger and Dunkl operators, machine learning, neural networks, python and much more
+- I’m currently working as ML/Backend engineer in Computer Vision field. I train models, develop data-scrapping systems, and engineer data pipelines
+- I’m looking to collaborate on interesting AI projects
+- How to reach me: mr.politov.k@gmail.com
 
 <!---
 stbatya/stbatya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
